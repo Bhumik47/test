@@ -1,0 +1,5 @@
+{{#user}
+Name: Bhumik
+Skills: HTML, CSS, JS, react.js
+Email: bhumikdehane@gmail.com
+{{/user}}
